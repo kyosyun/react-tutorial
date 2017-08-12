@@ -22,3 +22,6 @@ app.jsどのリクエストのときにどのJSをつかうのかを定義する
 ##Hot Module Replacement ##
 
 ##webpack-dev-server##
+$ npm install webpack webpack-dev-server --save-dev
+$ npm install babel-core babel-loader babel-preset-react --save-dev
+$ npm install jquery --save-dev
