@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "id": 2,
+        "author": "Jordan Walke",
+        "text": "This is *another* comment"
+    },
+    {
+        "author": "test",
+        "text": "",
+        "id": 1510393435356
+    },
+    {
+        "author": "testtest",
+        "text": "te",
+        "id": 1510393439688
+    },
+    {
+        "author": "foo",
+        "text": "*bar*"
+    },
+    {
+        "author": "foo",
+        "text": "*bar*"
+    }
+]
