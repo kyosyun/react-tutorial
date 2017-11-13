@@ -1,0 +1,30 @@
+1.Express
+  express-generator
+
+2.npm
+  install --save
+  npm install --force
+  --save-dev
+    devDependenciesにのみ追加される。
+
+3.remarkable
+
+4.ejs
+  テンプレートエンジン
+
+5.webpack
+ webpac-dev-server
+ フロントエンドのJSファイルの生成を行ってくれる
+ JS、CSSを一つのファイルにまとめてくれるもの。
+ 他にも開発サーバーを立ち上げるなどが出来る
+
+6. babel-core bavel-loader babel-preset-react
+新しいJavaScriptの仕様で書かれたソースコードを現状のブラウザで変換出来るようにしてくれる。
+自動コンパイルにするため？
+.babelrc :バベルの設定ファイル
+
+7.react react-hot-loader react-dom
+
+８．gulp
+Javascript製のタスクランナー
+CSSのコンパイルなどをタスク化出来る。
